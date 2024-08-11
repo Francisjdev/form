@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content:start;
+    background-color: rgb(34, 34, 34);
+    height: 100vh;
+
+}
+.left{
+    text-align:center;
+    width: 30%;
+    background-image: url("/images/adel-z-rmOmNSE5UBs-unsplash.jpg");
+    background-size:cover;
+}
+
